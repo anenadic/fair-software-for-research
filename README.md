@@ -11,3 +11,4 @@ The lesson is visible at: https://anenadic.github.io/fair-software-for-research/
 - [Toby Hodges](https://github.com/tobyhodges)
 - [Aleksandra Nenadic](https://github.com/anenadic)
 
+[workbench]: https://carpentries.github.io/workbench/
