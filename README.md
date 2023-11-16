@@ -1,4 +1,4 @@
-# A Lesson for Tools and Practices for FAIR Reseach Software
+# A Lesson Teaching Tools and Practices for FAIR Research Software
 
 This is a 2-day lesson teaching tools and practices for producing FAIR research software to support open and reproducible research. 
 
