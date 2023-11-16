@@ -2,8 +2,9 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+This course teaches tools and practices for producing and sharing FAIR research software to support open and reproducible research.
 
-
-[workbench]: https://carpentries.github.io/sandpaper-docs
+Before joining this training, participants should have:
+- foundational knowledge of Python or another programming language used to write scientific code
+- foundational knowledge of GitHub
 
